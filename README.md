@@ -1,5 +1,8 @@
 # Amazon_Reviews_WebScraping_And_SentimentAnalysis_NLP
 
+<img src="amazon-logo.png">
+
+
 ## Project Overview
 In this project we carry out WebScraping to Extract the Reviews of a product using Beautiful Soup and requests library and then perform Sentimental Analysis on it and predict whether the overall review is 'Positive', 'Neutral', 'Negative' using Afinn Library.
 
@@ -14,3 +17,5 @@ Step 3 : Using NLTK and str functions for tokenization, Lemmatization and Removi
 Step 4 : Converting to a Pandas Data Frame and then performing Sentiment Analysis Using Afinn Database.
 
 Step 5: Creating distribution plot, line and scatter plot to understand the relation between Sentence Sentiment Value and sentence word count.
+
+<img src="word_cloud_ip.png">
